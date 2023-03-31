@@ -1,6 +1,6 @@
 Name:		texlive-helmholtz-ellis-ji-notation
 Version:	55213
-Release:	1
+Release:	2
 Summary:	Beautiful in-line microtonal just intonation accidentals
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/helmholtz-ellis-ji-notation
